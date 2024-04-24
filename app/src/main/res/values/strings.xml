@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">Wallet</string>
+    <string name="logo_name">Alke Wallet</string>
+    <string name="logo_description">Logo de Alke Wallet</string>
+    <string name="slogan_homepage">El lugar más seguro para tu dinero</string>
+    <string name="btn1_homepage">Crear cuenta nueva</string>
+    <string name="btn2_homepage">Ya tiene cuenta?</string>
+
+    <string name="titulo_login">Ingresa y comienza a transferir</string>
+    <string name="txt_login">Login</string>
+    <string name="txt_email">Email</string>
+    <string name="txt_password">Contraseña</string>
+
+    <string name="txt_msg_home">Ultimas transacciones</string>
+    <string name="txt_fecha_1">22 abril 10:24 AM</string>
+    <string name="txt_fecha_2">20 abril 11:55 AM</string>
+    <string name="saludo_usuario">Hola, Toffe!</string>
+    <string name="nombre_ventana">Inicio</string>
+    <string name="txt_info">Balance Total</string>
+    <string name="dinero_balance">$555.555</string>
+    <string name="btn_enviar">Enviar dinero</string>
+    <string name="btn_ingresar">Ingresar dinero</string>
+    <string name="nombre_user">Godzilla Sama</string>
+    <string name="txt_monto">-$5.555</string>
+    <string name="nombre_user_2">Toffe Jaguar</string>
+    <string name="txt_monto_2">-$7.555</string>
+    <string name="txt_msg_empty">No hay transacciones registradas!</string>
+
+    <string name="txt_profile_view">Mi perfil</string>
+    <string name="btn_mi_info">Mi información</string>
+    <string name="btn_mis_tarjetas">Mis tarjetas</string>
+    <string name="btn_centro_ayuda">Centro de ayuda</string>
+    <string name="btn_opciones">Opciones</string>
+    <string name="btn_ingresar_dinero">Ingresar dinero</string>
+    <string name="correo_usuario">toffias_almendro@gmail.com</string>
+    <string name="txt_instruccion_1">Cantidad a ingresar</string>
+    <string name="txt_instruccion_2">Notas de trasnferencia</string>
+
+    <string name="txt_send_1">Cantidad a enviar</string>
+    <string name="email_user_2">godzilla@gmail.com</string>
+
+    <string name="titulo_signup">Registrate y empieza a transferir</string>
+    <string name="txt_signup_1">Nombre</string>
+    <string name="txt_signup_2">Apellido</string>
+    <string name="et_signup_1">Ingresar nombre</string>
+    <string name="ett_signup_2">Ingresar apellido</string>
+    <string name="txt_signup_3">Reingrese password</string>
+    <string name="btn_crear">Crear cuenta</string>
+    <string name="signup_msg">Ya tiene cuenta?</string>
+
+
+
+</resources>
